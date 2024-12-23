@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871004067694",
+    "project_id": "nexstream-e0c0d",
+    "storage_bucket": "nexstream-e0c0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871004067694:android:03c9ea1b5d406e5cae537f",
+        "android_client_info": {
+          "package_name": "com.example.nexstream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871004067694-2a134l5h4se1dlvc9uuuuasfrepu2o81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-SV4Ie1rufX9bLpQTNlbC6a5nHZmJNKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871004067694-2a134l5h4se1dlvc9uuuuasfrepu2o81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

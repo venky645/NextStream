@@ -1,0 +1,58 @@
+name: nexstream
+description: A new Flutter project for a Nexstream login screen.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  
+  firebase_core: ^3.8.0
+  firebase_auth: ^5.3.3
+  flutter_web_auth_2: ^4.0.2
+  provider: ^6.0.5
+  font_awesome_flutter: ^10.5.0
+  #  another_flushbar: ^2.0.0
+  carousel_slider: ^5.0.0  # Updated version
+  image_picker: ^1.0.0
+  dio: ^5.2.1
+  chewie: ^1.7.4
+  video_player: ^2.8.2
+  youtube_player_flutter: ^9.1.1
+
+
+  cloud_firestore: ^5.5.0
+  cached_network_image: ^3.2.3
+  rxdart: ^0.28.0
+  shared_preferences: ^2.0.15
+  flutter_vlc_player: ^7.4.2
+  video_player_web: ^2.3.3
+  flutter_inappwebview: ^6.1.5
+  webview_flutter: ^4.10.0
+  fl_chart: ^0.69.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/profile_placeholder.jpg
+    - assets/sample_video.mp4
+
+  fonts:
+    - family: OpenSans
+      fonts:
+        - asset: fonts/OpenSans-Regular.ttf
+        - asset: fonts/OpenSans-Bold.ttf
+          weight: 700
